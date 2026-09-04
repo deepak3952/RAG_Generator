@@ -102,8 +102,8 @@ rag-generator-assessment/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/<your-username>/rag-generator-assessment.git
-   cd rag-generator-assessment
+   git clone https://github.com/deepak3952/RAG_Generator.git
+   cd RAG_Generator
    ```
 
 2. **Create and Activate a Virtual Environment:**
